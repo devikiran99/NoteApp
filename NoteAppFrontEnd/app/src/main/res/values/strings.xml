@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+
+    !... Holder Screen ...!
+
+    <string name="holder_screen_name">Note Making App</string>
+
+    !...  Register/Login Screen...!
+
+    <string name="app_name_to_display">Notes</string>
+    <string name="app_description">Note taking made easier</string>
+    <string name="user_name">Enter Your Name</string>
+    <string name="user_email">Enter Your Email</string>
+    <string name="set_user_password">Set Password</string>
+    <string name="reset_user_password">Reset Password</string>
+    <string name="dummy_user_email">albert25@email.com</string>
+    <string name="dummy_user_name">Albert</string>
+    <string name="dummy_user_password">Albert@43234$5</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="note_title">Note title</string>
+    <string name="note_content">Note content</string>
+    <string name="dummy_note_title">Grocery List</string>
+    <string name="dummy_note_content">Grocery List are…</string>
+    <string name="edit_note">Update Note</string>
+    <string name="profile_error">There is no profile data found</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset">Reset</string>
+    <string name="empty_note_list">No notes available add new notes or refresh from server</string>
+    <string name="reload">Reload</string>
+    <string name="search_notes">Search for Notes</string>
+</resources>
